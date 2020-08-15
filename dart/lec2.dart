@@ -7,6 +7,7 @@ void main() {
   l.add(253);
   l.add(12);
   l.add(99);
+  l.add(5256);
 
   int max = l[0];
   for (int e in l) {
